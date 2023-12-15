@@ -1,1 +1,1 @@
-Time Series Analysis on Master programme ADA
+Time Series Analysis subject on Master programme ADA
